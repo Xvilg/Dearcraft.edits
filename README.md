@@ -1,2 +1,2 @@
-# dearcraft
+# DearCraft
 Novo site do DearCraft
